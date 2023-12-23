@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class SpringBootJenkinsApplicationTests {
 
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		log.info("Test case executing...");
 		log.info("Test case executing... email sent");
 		assertEquals(true,true);
