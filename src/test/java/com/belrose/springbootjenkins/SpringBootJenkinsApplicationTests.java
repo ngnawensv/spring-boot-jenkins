@@ -14,6 +14,7 @@ class SpringBootJenkinsApplicationTests {
 	void contextLoads() {
 		log.info("Test case executing...");
 		log.info("Test case executing last statment...");
+		log.info("Test case executing last statment one more time...");
 		assertEquals(true,true);
 	}
 
