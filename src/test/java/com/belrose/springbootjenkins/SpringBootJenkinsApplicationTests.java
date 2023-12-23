@@ -14,6 +14,7 @@ class SpringBootJenkinsApplicationTests {
 	void contextLoads() {
 		log.info("Test case executing...");
 		log.info("Test case executing... email sent");
+		log.info("Test gitmoji");
 		assertEquals(true,true);
 	}
 
